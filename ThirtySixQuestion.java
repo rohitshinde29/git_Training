@@ -16,7 +16,7 @@ public class ThirtySixQuestion {
     {
         int temp=n;
         int rem=1;
-        int num=0;
+        int num=0; 
         while(n>0)
         {
             rem=n%10;
